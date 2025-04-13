@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Online_Railway_Ticket_Booking_System
 
 <p>Description: Online Railway Ticket Booking System is a web-based application, that can access from anywhere over the internet browser. Users can buy train tickets easily online by following some steps. And, admin can manage the system from the admin panel easily.</p>
@@ -36,3 +37,6 @@
  </p>
   
   
+=======
+# Train_Reservation_System
+>>>>>>> f87f5ff43bcba870e4118a710f580fe8f9034ba0
